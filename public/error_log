@@ -1,0 +1,2 @@
+[20-Mar-2019 02:06:23 UTC] PHP Warning:  require(/home/jyr1u7kk0flx/public_html/demo/inventory/../vendor/autoload.php): failed to open stream: No such file or directory in /home/jyr1u7kk0flx/public_html/demo/inventory/index.php on line 23
+[20-Mar-2019 02:06:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/jyr1u7kk0flx/public_html/demo/inventory/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jyr1u7kk0flx/public_html/demo/inventory/index.php on line 23
